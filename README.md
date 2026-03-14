@@ -32,20 +32,45 @@ The goal of this project is to build a strong foundation in web development by p
 
 ## Project Structure
 
-html-webpage-beginner
-│
-├── index.html
-├── about.html
-├── contact.html
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-└── images
-    ├── web-dev.png
-    └── homepage-preview.png
-    └── about-preview.png
-    └── contact-preview.png
+## 📂 Project Structure
+
+**html-webpage-beginner**
+
+- 📄 **index.html**
+  - Main homepage of the website
+  - Contains introduction and navigation links
+
+- 📄 **about.html**
+  - Provides academic details
+  - Includes semester, subjects, and learning journey
+
+- 📄 **contact.html**
+  - Contains contact references
+  - Includes LinkedIn, GitHub, and other links
+
+- 📘 **README.md**
+  - Documentation explaining the project
+
+- 📜 **LICENSE**
+  - Defines project usage permissions
+
+- 🚫 **.gitignore**
+  - Specifies files that Git should ignore
+
+- 📁 **images/**
+  - Folder containing images used in the project
+
+  - 🖼 **web-dev.png**  
+    Development themed image used in the website
+
+  - 🖼 **homepage-preview.png**  
+    Screenshot preview of the homepage
+
+  - 🖼 **about-preview.png**  
+    Screenshot preview of the about page
+
+  - 🖼 **contact-preview.png**  
+    Screenshot preview of the contact page
       
 
 ## Technologies Used
