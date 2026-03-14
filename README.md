@@ -1,4 +1,4 @@
-# # Beginner HTML Multi-Page Website
+## Beginner HTML Multi-Page Website
 
 ![HTML](https://img.shields.io/badge/HTML-Project-orange)
 ![Beginner](https://img.shields.io/badge/Level-Beginner-green)
