@@ -15,7 +15,14 @@ The goal of this project is to build a strong foundation in web development by p
 
 ## Website Preview
 
-![Website Preview](images/homepage-preview.png)
+### Home Page
+![Home Page](images/homepage-preview.png)
+
+### About Page
+![About Page](images/about-preview.png)
+
+### Contact Page
+![Contact Page](images/contact-preview.png)
 
 ## Pages Included
 
@@ -36,9 +43,9 @@ html-webpage-beginner
 │
 └── images
     ├── web-dev.png
-    └── developer-learning.png
-    └── html-webpage-beginner
     └── homepage-preview.png
+    └── about-preview.png
+    └── contact-preview.png
       
 
 ## Technologies Used
