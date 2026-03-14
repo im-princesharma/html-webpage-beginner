@@ -32,8 +32,6 @@ The goal of this project is to build a strong foundation in web development by p
 
 ## Project Structure
 
-## 📂 Project Structure
-
 **html-webpage-beginner**
 
 - 📄 **index.html**
